@@ -1,0 +1,15 @@
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Infraestructure\bin\Debug\net5.0\SistematicoCuatro.Infraestructure.deps.json
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Infraestructure\bin\Debug\net5.0\SistematicoCuatro.Infraestructure.dll
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Infraestructure\bin\Debug\net5.0\ref\SistematicoCuatro.Infraestructure.dll
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Infraestructure\bin\Debug\net5.0\SistematicoCuatro.Infraestructure.pdb
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Infraestructure\bin\Debug\net5.0\SistematicoCuatro.Domain.dll
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Infraestructure\bin\Debug\net5.0\SistematicoCuatro.Domain.pdb
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Infraestructure\obj\Debug\net5.0\SistematicoCuatro.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Infraestructure\obj\Debug\net5.0\SistematicoCuatro.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Infraestructure\obj\Debug\net5.0\SistematicoCuatro.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Infraestructure\obj\Debug\net5.0\SistematicoCuatro.Infraestructure.AssemblyInfo.cs
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Infraestructure\obj\Debug\net5.0\SistematicoCuatro.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Infraestructure\obj\Debug\net5.0\SistematicoCuatro.Infraestructure.csproj.CopyComplete
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Infraestructure\obj\Debug\net5.0\SistematicoCuatro.Infraestructure.dll
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Infraestructure\obj\Debug\net5.0\ref\SistematicoCuatro.Infraestructure.dll
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Infraestructure\obj\Debug\net5.0\SistematicoCuatro.Infraestructure.pdb

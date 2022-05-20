@@ -1,0 +1,14 @@
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Domain\bin\Debug\net5.0\SistematicoCuatro.Domain.deps.json
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Domain\bin\Debug\net5.0\SistematicoCuatro.Domain.runtimeconfig.json
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Domain\bin\Debug\net5.0\SistematicoCuatro.Domain.runtimeconfig.dev.json
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Domain\bin\Debug\net5.0\SistematicoCuatro.Domain.dll
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Domain\bin\Debug\net5.0\SistematicoCuatro.Domain.pdb
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Domain\obj\Debug\net5.0\SistematicoCuatro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Domain\obj\Debug\net5.0\SistematicoCuatro.Domain.AssemblyInfoInputs.cache
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Domain\obj\Debug\net5.0\SistematicoCuatro.Domain.AssemblyInfo.cs
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Domain\obj\Debug\net5.0\SistematicoCuatro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Domain\obj\Debug\net5.0\SistematicoCuatro.Domain.dll
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Domain\obj\Debug\net5.0\SistematicoCuatro.Domain.pdb
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Domain\obj\Debug\net5.0\SistematicoCuatro.Domain.genruntimeconfig.cache
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Domain\obj\Debug\net5.0\ref\SistematicoCuatro.Domain.dll
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.Domain\bin\Debug\net5.0\ref\SistematicoCuatro.Domain.dll

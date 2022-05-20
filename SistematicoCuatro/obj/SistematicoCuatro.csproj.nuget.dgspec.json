@@ -1,0 +1,313 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro\\SistematicoCuatro.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.AppCore\\SistematicoCuatro.AppCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.AppCore\\SistematicoCuatro.AppCore.csproj",
+        "projectName": "SistematicoCuatro.AppCore",
+        "projectPath": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.AppCore\\SistematicoCuatro.AppCore.csproj",
+        "packagesPath": "C:\\Users\\Quezada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.AppCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Quezada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.Domain\\SistematicoCuatro.Domain.csproj": {
+                "projectPath": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.Domain\\SistematicoCuatro.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.Domain\\SistematicoCuatro.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.Domain\\SistematicoCuatro.Domain.csproj",
+        "projectName": "SistematicoCuatro.Domain",
+        "projectPath": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.Domain\\SistematicoCuatro.Domain.csproj",
+        "packagesPath": "C:\\Users\\Quezada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Quezada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.Infraestructure\\SistematicoCuatro.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.Infraestructure\\SistematicoCuatro.Infraestructure.csproj",
+        "projectName": "SistematicoCuatro.Infraestructure",
+        "projectPath": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.Infraestructure\\SistematicoCuatro.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\Quezada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Quezada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.Domain\\SistematicoCuatro.Domain.csproj": {
+                "projectPath": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.Domain\\SistematicoCuatro.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro\\SistematicoCuatro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro\\SistematicoCuatro.csproj",
+        "projectName": "SistematicoCuatro",
+        "projectPath": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro\\SistematicoCuatro.csproj",
+        "packagesPath": "C:\\Users\\Quezada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Quezada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.AppCore\\SistematicoCuatro.AppCore.csproj": {
+                "projectPath": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.AppCore\\SistematicoCuatro.AppCore.csproj"
+              },
+              "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.Domain\\SistematicoCuatro.Domain.csproj": {
+                "projectPath": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.Domain\\SistematicoCuatro.Domain.csproj"
+              },
+              "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.Infraestructure\\SistematicoCuatro.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\Quezada\\source\\repos\\SistematicoCuatro\\SistematicoCuatro.Infraestructure\\SistematicoCuatro.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.AppCore\obj\Debug\net5.0\SistematicoCuatro.AppCore.csproj.AssemblyReference.cache
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.AppCore\obj\Debug\net5.0\SistematicoCuatro.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.AppCore\obj\Debug\net5.0\SistematicoCuatro.AppCore.AssemblyInfoInputs.cache
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.AppCore\obj\Debug\net5.0\SistematicoCuatro.AppCore.AssemblyInfo.cs
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.AppCore\obj\Debug\net5.0\SistematicoCuatro.AppCore.csproj.CoreCompileInputs.cache
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.AppCore\bin\Debug\net5.0\SistematicoCuatro.AppCore.deps.json
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.AppCore\bin\Debug\net5.0\SistematicoCuatro.AppCore.dll
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.AppCore\bin\Debug\net5.0\ref\SistematicoCuatro.AppCore.dll
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.AppCore\bin\Debug\net5.0\SistematicoCuatro.AppCore.pdb
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.AppCore\bin\Debug\net5.0\SistematicoCuatro.Domain.dll
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.AppCore\bin\Debug\net5.0\SistematicoCuatro.Domain.pdb
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.AppCore\obj\Debug\net5.0\SistematicoCuatro.AppCore.csproj.CopyComplete
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.AppCore\obj\Debug\net5.0\SistematicoCuatro.AppCore.dll
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.AppCore\obj\Debug\net5.0\ref\SistematicoCuatro.AppCore.dll
+C:\Users\Quezada\source\repos\SistematicoCuatro\SistematicoCuatro.AppCore\obj\Debug\net5.0\SistematicoCuatro.AppCore.pdb
